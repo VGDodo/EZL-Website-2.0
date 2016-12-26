@@ -34,7 +34,7 @@
  -                </div>
  -                <div id="header-content">
  -                    <h1>EZL</h1>
- -                    <h3>Vainglory League</h3>
+ -                    <h3>Vainglory League I added this to the file to test it</h3>
  -                </div>
  -            </header>
  -            <main class="wrapper">
